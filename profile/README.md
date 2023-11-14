@@ -48,15 +48,15 @@ Join our vibrant community of contributors! Whether you're a beginner or an expe
 
 ## Events and Meetups
 
-- **Upcoming Events:** Join us at [Meetup](#) for workshops, hackathons, and networking events.
+- **Upcoming Events:** Join us at [Meetup](https://docs.google.com/forms/d/e/1FAIpQLSc4F9Y5m8j1RjAuiZNwJBoDrhngTVNE0yW06lUCMRZMmFyQng/viewform) for workshops, hackathons, and networking events.
 - **Community Forums:** Share ideas and engage with peers in our [discussion forum](#).
 
 ## Stay Connected
 
 - **Contact Us:** Questions? Ideas? Reach us at [3dclub@gmail.com](mailto:3dclub@gmail.com).
-- **Follow Us:** Stay in touch on [Twitter](#), [LinkedIn](#), [Facebook](#).
+- **Follow Us:** Stay in touch on [Gmail](3dclub.nitrkl@gmail.com), [LinkedIn](https://www.linkedin.com/company/data-heist), [Facebook](https://www.facebook.com/profile.php?id=100094676777031).
 
 ## Support and Sponsorship
 
-- **Support Us:** You can support by following our page.
+- **Support Us:** You can support us by following our page.
 
