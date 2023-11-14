@@ -49,7 +49,7 @@ Join our vibrant community of contributors! Whether you're a beginner or an expe
 ## Events and Meetups
 
 - **Upcoming Events:** Join us at [Meetup](https://docs.google.com/forms/d/e/1FAIpQLSc4F9Y5m8j1RjAuiZNwJBoDrhngTVNE0yW06lUCMRZMmFyQng/viewform) for workshops, hackathons, and networking events.
-- **Community Forums:** Share ideas and engage with peers in our [discussion forum](#).
+- **Community Forums:** Share ideas and engage with peers in our [discussion forum](https://docs.google.com/forms/d/e/1FAIpQLSfvu5CG0LJDOtIaJ5xPYIxVnEFtTHm5vGQr2zCTO_fKRgNDkA/viewform?usp=sf_link).
 
 ## Stay Connected
 
