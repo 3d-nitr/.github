@@ -1,3 +1,4 @@
+# ![Club 3D Logo](https://avatars.githubusercontent.com/u/142673166?s=200&v=4) Club 3D (Develop, Design, Data Science)
 # Club 3D (Develop, Design, Data Science)
 
 Welcome to the GitHub repository of Club 3D, a community dedicated to the three pillars of modern technological innovation: Development, Design, and Data Science. Our club aims to foster learning, collaboration, and innovation among enthusiasts and professionals in these fields.
