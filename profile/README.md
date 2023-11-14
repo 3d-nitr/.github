@@ -2,6 +2,7 @@
 
 # <img src="https://avatars.githubusercontent.com/u/142673166?s=200&v=4" width="100" height="100" alt="Club 3D Logo"/> 
 ![](https://komarev.com/ghpvc/?username=your-github-3d-nitr)
+ [![](https://github.com/3d-nitr/sources/stargazers)
 
 Welcome to the GitHub repository of Club 3D, a community dedicated to the three pillars of modern technological innovation: Development, Design, and Data Science. Our club aims to foster learning, collaboration, and innovation among enthusiasts and professionals in these fields.
 
