@@ -42,7 +42,7 @@ Join our vibrant community of contributors! Whether you're a beginner or an expe
 
 ## Community and Culture
 
-- **Code of Conduct:** Our community thrives on respect and inclusivity; please adhere to our [Code of Conduct](https://chat.whatsapp.com/DMWCmXQtm9R3AUCudCBQ2t).
+- **3D Community:** Our community thrives on respect and inclusivity; please adhere to our [3D Community](https://chat.whatsapp.com/DMWCmXQtm9R3AUCudCBQ2t).
 - **Acknowledging Contributions:** We celebrate and acknowledge the contributions of all members.
 
 
