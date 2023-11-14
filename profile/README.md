@@ -54,7 +54,7 @@ Join our vibrant community of contributors! Whether you're a beginner or an expe
 ## Stay Connected
 
 - **Contact Us:** Questions? Ideas? Reach us at [3dclub@gmail.com](mailto:3dclub@gmail.com).
-- **Follow Us:** Stay in touch on [Gmail](3dclub.nitrkl@gmail.com), [LinkedIn](https://www.linkedin.com/company/data-heist), [Facebook](https://www.facebook.com/profile.php?id=100094676777031).
+- **Follow Us:** Stay in touch on [Gmail](3dclub.nitrkl@gmail.com), [LinkedIn](https://www.linkedin.com/company/3d-nitrkl/mycompany/), [Facebook](https://www.facebook.com/profile.php?id=100094676777031).
 
 ## Support and Sponsorship
 
