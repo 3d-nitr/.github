@@ -28,9 +28,9 @@ Club 3D is a dynamic platform where budding developers, creative designers, and 
 
 ## Learning Resources
 
-- **Tutorials and Guides:** Dive into our comprehensive tutorials and guides [here](#).
-- **Webinars and Workshops:** Participate in our educational webinars and workshops for hands-on learning [here](#).
-- **Documentation:** Access detailed documentation for a deeper understanding of our projects [here](#).
+- **Tutorials and Guides:** Dive into our comprehensive tutorials and guides [here](https://3d-tech-club.notion.site/Welcome-to-Club-3D-7e9cdc62db014180ae25d0f0d167452c).
+- **Webinars and Workshops:** Participate in our educational webinars and workshops for hands-on learning [here](https://3d-tech-club.notion.site/Welcome-to-Club-3D-7e9cdc62db014180ae25d0f0d167452c).
+- **Documentation:** Access detailed documentation for a deeper understanding of our projects [here](https://3d-tech-club.notion.site/Welcome-to-Club-3D-7e9cdc62db014180ae25d0f0d167452c).
 
 ## Contributing
 
